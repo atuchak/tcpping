@@ -1,5 +1,5 @@
 # tcpping
-The Python way to ping a server through TCP and get statistics (```ping()```). 
+The Python way to ping a server through TCP and get statistics (```ping()```) 
 and wait until your server is up (```wait_for_ping()```).
 
 ## Usage
